@@ -33,6 +33,7 @@ The system is built using Spring Boot, secured with **JWT authentication**, and 
 6. **Final Presentation**
 
 ## Roles & Responsibilities
+
 - **Mariem Sayed** : Development
 - **Haneen Akram** : Docker
 - **Mohamed essam** : Prometheus
@@ -41,7 +42,7 @@ The system is built using Spring Boot, secured with **JWT authentication**, and 
 - **George Ayman** : Terraform
 
 
-### KPIs (Key Performance Indicators)
+## KPIs (Key Performance Indicators)
 
 Metrics for project success (e.g., response time, system uptime, user adoption rate):
 
@@ -55,19 +56,16 @@ Metrics for project success (e.g., response time, system uptime, user adoption r
 | Deployment Success Rate  | 100%         | Smooth deployment through Docker/Kubernetes    |
 | Monitoring Alerts        | ≤ 5 per week | Prometheus alerts within acceptable range      |
 
----
 
 ## Instructor
 
 **Ahmed Gamin**
 
----
 
 ## Project Files
 
 [You can find the full project files here.](https://drive.google.com/file/d/1zEOvyRVZSOpoAfatgq_L52rsk8YwpFSp/view?usp=drive_link)
 
----
 
 ## License
 
