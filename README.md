@@ -1,4 +1,4 @@
-# Smart Task Manager
+# Project Name: Smart Task Manager
 
 ## Project Idea
 
@@ -33,6 +33,13 @@ The system is built using Spring Boot, secured with **JWT authentication**, and 
 6. **Final Presentation**
 
 ## Roles & Responsibilities
+- **Mariem Sayed** : Development
+- **Haneen Akram** : Docker
+- **Mohamed essam** : Prometheus
+- **Abdelrahman Elginidy** :Grafana
+- **Mostafa Taha** : k8s
+- **George Ayman** : Terraform
+
 
 ### KPIs (Key Performance Indicators)
 
