@@ -1,4 +1,4 @@
-# Smart Task Manager
+# Project Name: Smart Task Manager
 
 ## Project Idea
 
@@ -34,7 +34,15 @@ The system is built using Spring Boot, secured with **JWT authentication**, and 
 
 ## Roles & Responsibilities
 
-### KPIs (Key Performance Indicators)
+- **Mariem Sayed** : Development
+- **Haneen Akram** : Docker
+- **Mohamed essam** : Prometheus
+- **Abdelrahman Elginidy** :Grafana
+- **Mostafa Taha** : k8s
+- **George Ayman** : Terraform
+
+
+## KPIs (Key Performance Indicators)
 
 Metrics for project success (e.g., response time, system uptime, user adoption rate):
 
@@ -48,19 +56,16 @@ Metrics for project success (e.g., response time, system uptime, user adoption r
 | Deployment Success Rate  | 100%         | Smooth deployment through Docker/Kubernetes    |
 | Monitoring Alerts        | ≤ 5 per week | Prometheus alerts within acceptable range      |
 
----
 
 ## Instructor
 
 **Ahmed Gamin**
 
----
 
 ## Project Files
 
 [You can find the full project files here.](https://drive.google.com/file/d/1zEOvyRVZSOpoAfatgq_L52rsk8YwpFSp/view?usp=drive_link)
 
----
 
 ## License
 
